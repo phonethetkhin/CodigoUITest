@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CodigoUITest</string>
+    <string name="search_results">Search results</string>
+    <string name="mazda_3">Mazda 3</string>
+    <string name="_300_cars_found"><font color="#F44782">300+</font> cars found</string>
+    <string name="sms1000z_5_seater">SMS1000Z <font color="#F44782">-</font> 5 Seater</string>
+    <string name="booking_id_44123331">Booking ID: 44123331</string>
+    <string name="cancel_this_booking">Cancel this booking</string>
+    <string name="need_help">Need help?</string>
+    <string name="s_52_00"><![CDATA[S$52.00 >]]></string>
+    <string name="amount_is_not_final">*Amount is not final</string>
+    <string name="estimated_total">Estimated total</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="level_4_lot_123_456">Level 4 / Lot 123 – 456</string>
+    <string name="_194_puggol_road_p100_multi_storey_car_park">194 Puggol Road P100 Multi Storey Car Park</string>
+    <string name="pick_up_car_at">Pick up car at</string>
+    <string name="add_to_calendar">Add to Calendar</string>
+    <string name="days_hours">days hours</string>
+    <string name="duration">Duration</string>
+    <string name="tue_2_nov_20_n_11_45_am">Tue, 2 Nov 20\n 11:45 am</string>
+    <string name="end_date">End date</string>
+    <string name="mon_1_nov_20_n11_45_am">Mon, 1 Nov 20 \n11:45 am</string>
+    <string name="start_date">Start date</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="sms1000z">SMS1000Z</string>
+    <string name="rent_a_car">Rent a car</string>
+    <string name="location">Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="go">Go</string>
+    <string name="_1_hr">1 hr</string>
+    <string name="filter">Filter</string>
+    <string name="map">Map</string>
+    <string name="_0_5_km_away">0.5 KM AWAY</string>
+    <string name="rental_fee">Rental Fee</string>
+    <string name="fr_3_00_hr">Fr. $3.00/hr</string>
+    <string name="mileage_fee">Mileage Fee</string>
+    <string name="_0_40_km">$0.40/km</string>
+    <string name="six">6</string>
+    <string name="available">Available</string>
+
+</resources>
